@@ -10,4 +10,5 @@ public class SpringRestCrudApiApplication {
 		SpringApplication.run(SpringRestCrudApiApplication.class, args);
 	}
 
+
 }
